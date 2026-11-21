@@ -1,0 +1,68 @@
+{
+  "evento": "Muestreo exploratorio SOS Atenco",
+  "fecha": "2026-11-20",
+  "responsable": "Santuario Ajolote A.C. · CIMA A.C.",
+  "lugar": "Atenco, San Gregorio Atlapulco, Xochimilco, Ciudad de México",
+  "coordenadas_aproximadas": {
+    "latitud": 19.2,
+    "longitud": -99.04
+  },
+  "estaciones": 7,
+  "corredor_km_aproximado": 3,
+  "parajes": [
+    "La Espejera",
+    "Tlamelaqui/Tlamelaca",
+    "Zacapa",
+    "Axoyopan"
+  ],
+  "lecturas_puntos_1_a_5": [
+    {
+      "parametro": "Oxigeno disuelto",
+      "valor": "0",
+      "escala": "mg/L",
+      "nota": "cero en todas las estaciones"
+    },
+    {
+      "parametro": "pH",
+      "valor": "9",
+      "escala": "unidades de pH"
+    },
+    {
+      "parametro": "Alcalinidad",
+      "valor": "MAX",
+      "nota": "extremo de la escala de la tira reactiva"
+    },
+    {
+      "parametro": "Bromo",
+      "valor": "MAX",
+      "nota": "extremo de la escala"
+    },
+    {
+      "parametro": "Nitritos",
+      "valor": "MAX",
+      "nota": "extremo de la escala"
+    },
+    {
+      "parametro": "Nitratos",
+      "valor": "MAX",
+      "nota": "extremo de la escala"
+    },
+    {
+      "parametro": "Hierro",
+      "valor": "presencia"
+    },
+    {
+      "parametro": "Acido cianurico",
+      "valor": "presencia"
+    }
+  ],
+  "observaciones": "En los puntos 6 y 7 no se observaron senales de acido cianurico ni del indicador dictado como flor.",
+  "antecedentes": {
+    "2026-10-30": "pH 9, oxigeno disuelto 0, bromo 20, cloro libre y total 10, dureza total 425 (extremos de escala)"
+  },
+  "advertencias": [
+    "MAX indica el extremo de la escala de la tira reactiva; no permite conocer el valor real.",
+    "No existe dictamen oficial del episodio al cierre del reporte.",
+    "Ningun registro documenta un ajolote muerto."
+  ]
+}
